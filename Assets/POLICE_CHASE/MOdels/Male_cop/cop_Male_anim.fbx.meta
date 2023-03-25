@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: a7cef262933bdf7418243e76186d4762
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1906948128511837235
+    second: wlk
+  - first:
+      74: -5252816984213320552
+    second: idle
+  - first:
+      74: 665853745831072719
+    second: idle2
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'CopModelMale_rig_0001:joint_ball_L'
+      : rotation error = 9.999995 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'wlk' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'CopModelMale_rig_0001:joint_chest' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_neck'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_finger_L'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_thumb_L'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_finger_R'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_thumb_R'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_ball_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_ball_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'idle' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'CopModelMale_rig_0001:joint_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_neck'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_finger_L'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_thumb_L'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_finger_R'
+      has translation animation that will be discarded.\n\t'CopModelMale_rig_0001:joint_thumb_R'
+      has translation animation that will be discarded.\n\nClip 'idle2' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'CopModelMale_rig_0001:joint_neck'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wlk
+      takeName: wlk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      internalID: 0
+      firstFrame: 31
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 31
+    - serializedVersion: 16
+      name: idle2
+      takeName: idle2
+      internalID: 0
+      firstFrame: 62
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 62
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: cop_Male_anim(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Offset_Joints
+      parentName: cop_Male_anim(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CopModelMale_rig_0001:joint_root
+      parentName: Offset_Joints
+      position: {x: -5.970383e-33, y: 2.7054284, z: 1.7347235e-18}
+      rotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CopModelMale_rig_0001:joint_belly
+      parentName: CopModelMale_rig_0001:joint_root
+      position: {x: -0.54974276, y: 2.4320582e-16, z: -2.1277752e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CopModelMale_rig_0001:joint_chest
+      parentName: CopModelMale_rig_0001:joint_belly
+      position: {x: -0.556463, y: 2.4617885e-16, z: -2.1537859e-17}
+      rotation: {x: -0, y: -0, z: 0.005063623, w: 0.99998724}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: CopModelMale_rig_0001:joint_neck
+      parentName: CopModelMale_rig_0001:joint_chest
+      position: {x: -0.5387464, y: 0.0000009217274, z: -0.0020845525}
+      rotation: {x: -0.66119885, y: 0.25063142, z: 0.24392255, w: 0.6637031}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: CopModelMale_rig_0001:joint_jaw
+      parentName: CopModelMale_rig_0001:joint_neck
+      position: {x: -0.2030815, y: -4.440892e-16, z: -4.3368087e-17}
+      rotation: {x: 0.000000029802315, y: 0.000000007450579, z: 0.54944474, w: 0.83553004}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: CopModelMale_rig_0001:joint_jawTip
+      parentName: CopModelMale_rig_0001:joint_jaw
+      position: {x: -0.26144812, y: -5.0653925e-16, z: 8.315303e-17}
+      rotation: {x: -0.10815682, y: -0.6987862, z: -0.10815684, w: 0.6987862}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CopModelMale_rig_0001:joint_head
+      parentName: CopModelMale_rig_0001:joint_neck
+      position: {x: -0.56952924, y: 0.63070357, z: 0.0054551605}
+      rotation: {x: 0.29357615, y: -0.64328307, z: 0.2935761, w: 0.64328307}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: CopModelMale_rig_0001:joint_shoulder_L
+      parentName: CopModelMale_rig_0001:joint_chest
+      position: {x: -0.2990707, y: -0.27191147, z: -2.0816682e-17}
+      rotation: {x: -0, y: -0, z: 0.7680724, w: 0.6403629}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: CopModelMale_rig_0001:joint_hand_L
+      parentName: CopModelMale_rig_0001:joint_shoulder_L
+      position: {x: -0.20351724, y: 5.2041704e-16, z: 0}
+      rotation: {x: -0.10972803, y: -0.00085146714, z: -0.119776025, w: 0.9867182}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: CopModelMale_rig_0001:joint_elbow_L
+      parentName: CopModelMale_rig_0001:joint_hand_L
+      position: {x: -0.88446593, y: 5.921438e-16, z: -4.510281e-17}
+      rotation: {x: -0.0011322348, y: 0.02402433, z: 0.0054692947, w: 0.9996958}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: CopModelMale_rig_0001:joint_wrist_L
+      parentName: CopModelMale_rig_0001:joint_elbow_L
+      position: {x: -0.78175396, y: 1.3501705e-17, z: 5.89806e-17}
+      rotation: {x: 0.00007795344, y: -0.00926141, z: 0.033199526, w: 0.9994058}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: CopModelMale_rig_0001:joint_finger_L
+      parentName: CopModelMale_rig_0001:joint_wrist_L
+      position: {x: -0.21067856, y: 0.03711478, z: -0.02618122}
+      rotation: {x: 0.111670725, y: -0.009386017, z: 0.065972365, w: 0.99150854}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: CopModelMale_rig_0001:joint_fingerTip_L
+      parentName: CopModelMale_rig_0001:joint_finger_L
+      position: {x: -0.25954092, y: -3.499712e-16, z: 1.3281477e-17}
+      rotation: {x: -0.0031598352, y: -0.016449234, z: -0.18861966, w: 0.98190737}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1}
+    - name: CopModelMale_rig_0001:joint_thumb_L
+      parentName: CopModelMale_rig_0001:joint_wrist_L
+      position: {x: -0.14852627, y: -0.02980669, z: 0.10562537}
+      rotation: {x: 0.11640219, y: 0.32052988, z: 0.08828369, w: 0.93590444}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000004}
+    - name: CopModelMale_rig_0001:joint_thumbTip_L
+      parentName: CopModelMale_rig_0001:joint_thumb_L
+      position: {x: -0.15458326, y: 3.0531133e-16, z: 7.0328074e-17}
+      rotation: {x: -0.038165074, y: -0.27999118, z: -0.12955455, w: 0.95045465}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: CopModelMale_rig_0001:joint_shoulder_R
+      parentName: CopModelMale_rig_0001:joint_chest
+      position: {x: -0.2935016, y: 0.27791265, z: 0}
+      rotation: {x: -0.63255614, y: 0.7745146, z: 4.7425338e-17, w: -3.873289e-17}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000005}
+    - name: CopModelMale_rig_0001:joint_hand_R
+      parentName: CopModelMale_rig_0001:joint_shoulder_R
+      position: {x: -0.20351686, y: -1.3877788e-16, z: 9.398538e-32}
+      rotation: {x: 0.109715566, y: 0.0008533633, z: -0.11977118, w: 0.9867202}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1.0000004}
+    - name: CopModelMale_rig_0001:joint_elbow_R
+      parentName: CopModelMale_rig_0001:joint_hand_R
+      position: {x: -0.8844709, y: -5.313675e-16, z: -1.3877788e-17}
+      rotation: {x: 0.001132257, y: -0.024024237, z: 0.0054686368, w: 0.99969584}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000005}
+    - name: CopModelMale_rig_0001:joint_wrist_R
+      parentName: CopModelMale_rig_0001:joint_elbow_R
+      position: {x: -0.7817541, y: -1.6529729e-15, z: 4.440892e-16}
+      rotation: {x: -0.00007779661, y: 0.009261404, z: 0.03321756, w: 0.99940526}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: CopModelMale_rig_0001:joint_finger_R
+      parentName: CopModelMale_rig_0001:joint_wrist_R
+      position: {x: -0.21097161, y: 0.009695954, z: 0.042947825}
+      rotation: {x: -0.11165809, y: 0.009386108, z: 0.0659562, w: 0.99151105}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1}
+    - name: CopModelMale_rig_0001:joint_fingerTip_R
+      parentName: CopModelMale_rig_0001:joint_finger_R
+      position: {x: -0.25953653, y: 4.773472e-16, z: 2.986977e-17}
+      rotation: {x: 0.016449463, y: -0.0031597714, z: 0.98190856, w: 0.18861371}
+      scale: {x: 0.99999994, y: 0.9999996, z: 1.0000004}
+    - name: CopModelMale_rig_0001:joint_thumb_R
+      parentName: CopModelMale_rig_0001:joint_wrist_R
+      position: {x: -0.15185972, y: -0.029170167, z: -0.10095965}
+      rotation: {x: -0.11639877, y: -0.32053068, z: 0.088265605, w: 0.9359064}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000004}
+    - name: CopModelMale_rig_0001:joint_thumbTip_R
+      parentName: CopModelMale_rig_0001:joint_thumb_R
+      position: {x: -0.15457657, y: 1.7615322e-16, z: 6.7952964e-16}
+      rotation: {x: 0.28000236, y: -0.038165215, z: 0.950452, w: 0.12954983}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1}
+    - name: CopModelMale_rig_0001:joint_hip_L
+      parentName: CopModelMale_rig_0001:joint_root
+      position: {x: 0.22439234, y: -0.3686459, z: -0.033457402}
+      rotation: {x: -0.018208502, y: 0.7068725, z: 0.70687217, w: 0.018208414}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: CopModelMale_rig_0001:joint_knee_L
+      parentName: CopModelMale_rig_0001:joint_hip_L
+      position: {x: -1.0397701, y: 0, z: -1.2886037e-15}
+      rotation: {x: -0.9980385, y: -0.06260442, z: -0.000000076368444, w: -0.00000023841855}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: CopModelMale_rig_0001:joint_ankle_L
+      parentName: CopModelMale_rig_0001:joint_knee_L
+      position: {x: -1.089273, y: 3.719247e-15, z: -0.000000018420447}
+      rotation: {x: 0.8977289, y: 0.4405483, z: 0.000000026591769, w: 0.00000003127818}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: CopModelMale_rig_0001:joint_ball_L
+      parentName: CopModelMale_rig_0001:joint_ankle_L
+      position: {x: -0.35988694, y: 2.120094e-17, z: -1.1838371e-16}
+      rotation: {x: 0.000000027766594, y: -0.000000020205745, z: -0.31807545, w: 0.9480654}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: CopModelMale_rig_0001:joint_toe_L
+      parentName: CopModelMale_rig_0001:joint_ball_L
+      position: {x: -0.51374274, y: -8.689038e-17, z: -2.0359508e-16}
+      rotation: {x: -0.029959574, y: -0.7064718, z: -0.029959522, w: 0.70647186}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: CopModelMale_rig_0001:joint_hip_R
+      parentName: CopModelMale_rig_0001:joint_root
+      position: {x: 0.22439319, y: 0.368646, z: -0.0334574}
+      rotation: {x: -0.018208474, y: 0.70687234, z: 0.70687234, w: 0.018208474}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: CopModelMale_rig_0001:joint_knee_R
+      parentName: CopModelMale_rig_0001:joint_hip_R
+      position: {x: -1.0397689, y: 0, z: -3.687563e-16}
+      rotation: {x: -0.9980385, y: -0.062604375, z: -0.0000000018626449, w: 0}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: CopModelMale_rig_0001:joint_ankle_R
+      parentName: CopModelMale_rig_0001:joint_knee_R
+      position: {x: -1.0892737, y: -1.110223e-16, z: 2.8889136e-16}
+      rotation: {x: 0.89772874, y: 0.44054872, z: 0.000000001720242, w: 7.1429224e-10}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: CopModelMale_rig_0001:joint_ball_R
+      parentName: CopModelMale_rig_0001:joint_ankle_R
+      position: {x: -0.3598868, y: -2.6371248e-16, z: 5.5511115e-17}
+      rotation: {x: -1.11022276e-16, y: -1.11022276e-16, z: -0.31807497, w: 0.9480655}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: CopModelMale_rig_0001:joint_toe_R
+      parentName: CopModelMale_rig_0001:joint_ball_R
+      position: {x: -0.5137425, y: 1.6361486e-16, z: 1.266473e-32}
+      rotation: {x: 0.70647186, y: -0.029959526, z: 0.70647186, w: 0.029959526}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000008}
+    - name: Cop_Model_Male_UV_SGlass
+      parentName: cop_Male_anim(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
